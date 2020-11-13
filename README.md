@@ -17,7 +17,7 @@ Utility to take a snapshot of the raspberry pi screen and save it as a PNG file
 
 Run this command through terminal or CLI screen.
 
-curl -sL https://raw.githubusercontent.com/AndrewFromMelbourne/raspi2png/master/installer.sh | bash -
+curl -sL https://raw.githubusercontent.com/ad24cz/raspi2png/master/installer.sh | bash -
 
 ## Manual Building
 
